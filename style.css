@@ -1,0 +1,17 @@
+h1{text-align: center;
+    text-decoration-color: blue;
+    text-decoration-line: underline;
+
+} 
+
+p{text-align: center;
+  
+}
+
+<head>
+  <style>
+    <p> {
+        color: #FFFFFF;
+    }
+  </style>
+</head>
